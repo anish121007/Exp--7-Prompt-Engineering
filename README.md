@@ -58,5 +58,7 @@ Document differences and improvements.
 
 Output:
 
+[PROMPT EX08 (1) (1).pdf](https://github.com/user-attachments/files/28866827/PROMPT.EX08.1.1.pdf)
+
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
